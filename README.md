@@ -4,7 +4,7 @@ Steps to execute the Tests in command Prompt:
 
 1. Set environment variable - Export NB_HOME=/home/nanobi/Krishnamurthy/NANOBI_SERVERS/nbconfig_local
 
-2. Place "automation_test_configuration.properties" file
+2. Place "automation_test_configuration.properties" file into "nbconfig_local" directory.
 
 3. Set the report path, chromedriver path accordingly in "automation_test_configuration.properties" file
 
